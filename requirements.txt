@@ -1,2 +1,5 @@
--r requirements/default.txt
--r requirements/test.txt
+numpy
+pandas
+matplotlib
+ipywidgets
+jupyter_ui_poll
