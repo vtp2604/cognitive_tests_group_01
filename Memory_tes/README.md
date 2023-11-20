@@ -1,16 +1,5 @@
-#introduction
-html_out = HTML("<h1 style = 'color:purple;'>Welcome to the Memory Test!</h1>")
-display(html_out)
-time.sleep(1)
-
-html_out = HTML("<span style = 'color:red;'> You will be given some time to remember the figures in the following grids. </span>")
-display(html_out)
-time.sleep(1)
-html_out = HTML("<span style = 'color:orange;'> At the end, you will be asked to answer a few questions regarding to the shape, color, and position. </span>")
-display(html_out)
-time.sleep(1)
-html_out = HTML("<span style = 'color:green;'> Don't forget to keep letters in the lower case. </span>")
-display(html_out)
-time.sleep(1)
-html_out = HTML("<span style = 'color:blue;'> Now, let's get started! </span>")
-display(html_out)
+Welcome to the Memory Test!
+You will be given some time to remember the figures in the following grids.
+At the end, you will be asked to answer a few questions regarding the shape, colour, and position.
+Don't forget to keep letters in the lowercase.
+Now, let's get started!
