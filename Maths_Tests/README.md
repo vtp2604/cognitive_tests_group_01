@@ -8,7 +8,7 @@ THROUGH ipynb.cloud
 4. You can start reading through the instructions and completeing the test
 
 
-THROUGH MYBINDER.ORG
+THROUGH mybinder.org
 1. Press coursework.ipynb to start up the server to run the code, if you are unable to press onto the codeitself, it just means that server is just starting up
 2. Click on the box, also known as a cell
 3. Press the ▷ or Shift + Enter to start running the code
